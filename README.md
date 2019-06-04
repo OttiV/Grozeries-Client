@@ -7,7 +7,7 @@
 ```
 run npm install to install dependencies and run npm start to start the dev server.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.<br>
+The page will reload if you make edits.
 You will also see any lint errors in the console.
 ```
 
@@ -27,7 +27,7 @@ You will also see any lint errors in the console.
 * **Ottavia Vignani** - [Vgnttv](https://github.com/Vgnttv)
 * **Robert Langereis** - [robertlangereis](https://github.com/robertlangereis)
 
-See also the list of [contributors](https://github.com/Grozeries-Client/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Vgnttv/Grozeries-Client/graphs/contributors) who participated in this project.
 
 
 
