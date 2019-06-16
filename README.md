@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # VERSION 1.0 (BÈTA) - Client side of Grozeries platform #
 
 The Development Team "Grozeries" of Class 25 welcomes you: may your coding adventure be a good one!
-## [🍎🍑Check out the deployed version here🥕🥦](https://grozeries-client.netlify.com)
+## [🍎🍑Check out the deployed version here🥕🥦](https://grozeries-client.netlify.com/)
 
 ## Startup
 1. Install required dependencies using 'npm install'
